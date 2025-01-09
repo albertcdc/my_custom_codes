@@ -5,5 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='My first Custom Python library',
-    author='aco'
+    author='aco',
+    url='https://github.com/albertcdc/my_custom_codes'
 )
