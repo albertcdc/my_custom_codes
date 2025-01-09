@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71f204a7-1f59-43cc-bbe0-17eb37b99d05" name="Changes" comment="added url in library setup">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_custom_codes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_custom_codes.iml" afterDir="false" />
+    <list default="true" id="71f204a7-1f59-43cc-bbe0-17eb37b99d05" name="Changes" comment="library version 0.1.1 with testing script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_custom_library/mypythonlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_custom_library/mypythonlib/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_custom_library/mypythonlib/myfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_custom_library/mypythonlib/myfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/call_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_custom_library/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my_custom_library/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_custom_library/mypythonlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_custom_library/mypythonlib/myfunctions.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my_custom_library/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_custom_library/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,29 +47,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/my_custom_library" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.call_library">
+  <component name="RunManager">
     <configuration name="call_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_custom_codes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/call_library.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_custom_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_custom_codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +70,7 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_custom_library" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/call_library.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,14 +79,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.my_custom_library" />
-      <item itemvalue="Python.call_library" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.call_library" />
-        <item itemvalue="Python.my_custom_library" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736418308616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="library version 0.1.1 with testing script">
+      <created>1736422122417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736422122417</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +140,7 @@
     <MESSAGE value="added custom library files structure" />
     <MESSAGE value="git push test" />
     <MESSAGE value="added url in library setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="added url in library setup" />
+    <MESSAGE value="library version 0.1.1 with testing script" />
+    <option name="LAST_COMMIT_MESSAGE" value="library version 0.1.1 with testing script" />
   </component>
 </project>
