@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='mypythonlib',
     packages=find_packages(),
-    version='0.1.0',
+    version='0.1.1',
     description='My first Custom Python library',
     author='aco',
     url='https://github.com/albertcdc/my_custom_codes'
