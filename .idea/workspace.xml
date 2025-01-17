@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71f204a7-1f59-43cc-bbe0-17eb37b99d05" name="Changes" comment="version 0.1.3 printing version">
+    <list default="true" id="71f204a7-1f59-43cc-bbe0-17eb37b99d05" name="Changes" comment="disable version tag display on tester">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_custom_codes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_custom_codes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_folder/call_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_folder/call_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypythonlibaco1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mypythonlibaco1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypythonlibaco1/myfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/mypythonlibaco1/myfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/my_custom_library" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -135,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736436680468</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="disable version tag display on tester">
+      <created>1736527141555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736527141555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +167,7 @@
     <MESSAGE value="library version 0.1.1 with testing script" />
     <MESSAGE value="library version 0.1.1 with testing script and renamed library name" />
     <MESSAGE value="version 0.1.3 printing version" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 0.1.3 printing version" />
+    <MESSAGE value="disable version tag display on tester" />
+    <option name="LAST_COMMIT_MESSAGE" value="disable version tag display on tester" />
   </component>
 </project>
