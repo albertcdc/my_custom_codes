@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71f204a7-1f59-43cc-bbe0-17eb37b99d05" name="Changes" comment="version 0.1.5 sqrt+20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_folder/call_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_folder/call_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypythonlibaco1/myfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/mypythonlibaco1/myfunctions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737724901645</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="version 0.1.5 sqrt+20">
+      <created>1737725061792</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737725061792</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
