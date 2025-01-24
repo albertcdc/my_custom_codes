@@ -1,6 +1,5 @@
 import math
-import mypythonlibaco1
 
 def apply_sqrt(inp):
-    out = math.sqrt(inp) +2
+    out = math.sqrt(inp) + 50
     return out
