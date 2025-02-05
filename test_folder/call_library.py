@@ -1,4 +1,4 @@
 from mypythonlibaco1 import apply_sqrt
 import mypythonlibaco1
 print(mypythonlibaco1.__version__)
-print(apply_sqrt(1))
+print(apply_sqrt(6))
