@@ -45,16 +45,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.call_library.executor": "Run",
-    "git-widget-placeholder": "main"
-  }
-}]]></component>
   <component name="RunManager">
     <configuration name="call_library" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="my_custom_codes" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
